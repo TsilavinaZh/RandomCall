@@ -20,8 +20,8 @@ function App() {
   const [phoneNumber, setPhoneNumber] = useState('');
 
   const generatePhoneNumber = () => {
-    const min = 2222222;
-    const max = 5555555;
+    const min = 22222;
+    const max = 55555;
     const randomPhoneNumber = Math.floor(Math.random() * (max - min + 1)) + min;
     setPhoneNumber('034' + randomPhoneNumber);
   };

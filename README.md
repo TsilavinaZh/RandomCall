@@ -10,11 +10,9 @@ git clone https://github.com/TsilavinaZh/random-call.git
 ```
 
 # Fonctionnalités
-
-    Générer un numéro de téléphone aléatoire en appuyant sur le bouton "Générer".
-    Appeler le numéro généré en appuyant sur le bouton "Call".
+Générer un numéro de téléphone aléatoire en appuyant sur le bouton "Générer".
+Appeler le numéro généré en appuyant sur le bouton "Call".
 
 # Technologies utilisées
-
-    - React.js
-    - Material-UI
+- React.js
+- Material-UI

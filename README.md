@@ -4,7 +4,7 @@ Ce projet est un générateur de numéro de téléphone aléatoire avec la possi
 
 ## Utilisation
 
-1. Clonez ce dépôt :
+clonez ce dépôt :
 ```bash
 git clone https://github.com/TsilavinaZh/random-call.git
 ```
